@@ -1,0 +1,9 @@
+h1{
+    font-family:'Playfair Display', 'Cinzel', 'Cormorant Garamond', serif;color:#ff999c;
+}
+hr {
+  border: none;
+  height: 2px;
+  background-color: #d63c60;
+  margin: 0;
+}
