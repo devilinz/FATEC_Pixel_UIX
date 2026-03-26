@@ -1,9 +1,26 @@
-h1{
-    font-family:'Playfair Display', 'Cinzel', 'Cormorant Garamond', serif;color:#ff999c;
+body {
+    background-color: #f2ebe5;
+    font-family: Arial;
 }
-hr {
-  border: none;
-  height: 2px;
-  background-color: #d63c60;
-  margin: 0;
+
+h1, h2 {
+    color: #b88a6a;
+}
+
+p {
+    color: #6b4c3b;
+}
+
+a {
+    text-decoration: none;
+    color: #b88a6a;
+}
+
+.linha {
+    border-bottom: 2px solid #b88a6a;
+    height: 10px;
+}
+
+img {
+    border-radius: 10px;
 }
