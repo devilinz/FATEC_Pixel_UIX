@@ -1,26 +1,21 @@
-body {
-    background-color: #f2ebe5;
-    font-family: Arial;
+h1 {
+    text-align: center;
+    font-size: 50px;
 }
-
-h1, h2 {
-    color: #b88a6a;
+div p {
+    margin-left: 40px;
 }
-
-p {
-    color: #6b4c3b;
+h2 {
+    text-align: center;
 }
-
-a {
-    text-decoration: none;
-    color: #b88a6a;
-}
-
-.linha {
-    border-bottom: 2px solid #b88a6a;
-    height: 10px;
-}
-
 img {
-    border-radius: 10px;
+    margin-left: 1250px;
+}
+p {
+    font-size: 18px;
+    text-align: center;
+}
+table {
+    border: 3px solid #e1526d;
+    margin-left: 400px;
 }
