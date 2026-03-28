@@ -16,10 +16,7 @@ a {
     color: #b88a6a;
 }
 
-.linha {
-    border-bottom: 2px solid #b88a6a;
-    height: 10px;
-}
+
 a:hover {
     color: #e1526d ;
 }
@@ -37,14 +34,18 @@ table {
     color: #6b4c3b;
     margin-left: 400px;
 }
+
 h3 {
     text-align: center;
 }
+
  section {
     margin-left: 50px;
 }
+
 li {
     margin-left: 80px;
+    color: #6b4c3b;
 }
 div {
     margin-left: 200px;
